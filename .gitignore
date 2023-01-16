@@ -1,3 +1,8 @@
+# data
+r4-data/*
+canary-data/*
+imdb-data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
